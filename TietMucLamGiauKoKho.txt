@@ -1,6 +1,0 @@
-- mua ve so
-- danh bai
-- danh de
-- vietlott
-- thuoc phien
-....
